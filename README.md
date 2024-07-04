@@ -24,7 +24,7 @@ npm run dev
 
 ### Screenshots: 
 
-![Screenshot 2024-07-04 at 18-50-42 Подписки](https://github.com/SavitskayaKseniya22/test-anverali/assets/77901301/01344457-ac3e-4fc9-9832-7322cf0a0d5e)npm run dev
+![Screenshot 2024-07-04 at 18-50-42 Подписки](https://github.com/SavitskayaKseniya22/test-anverali/assets/77901301/01344457-ac3e-4fc9-9832-7322cf0a0d5e)
 ![Screenshot 2024-07-04 at 18-55-59 Подписки](https://github.com/SavitskayaKseniya22/test-anverali/assets/77901301/6340d42d-8d2c-46de-b64e-bf6206f3447b)
 
 
